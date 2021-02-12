@@ -9,5 +9,5 @@
 <!--- 💬 Ask me about ...-->
 - 📫 How to reach me: Twitter: <a href="https://www.twitter.com/jesulonimii">@jesulonimii</a>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Avoid Me! I ask too many questions..... just kiddin'
+- ⚡ Fun fact: I ask too many questions..... just kiddin'
 

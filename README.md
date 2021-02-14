@@ -11,3 +11,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I ask too many questions..... just kiddin'
 
+![Profile views](https://gpvc.arturio.dev/jesulonimii)  

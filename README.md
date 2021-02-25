@@ -19,5 +19,5 @@
 <details>
   <summary><b>📊 Github Stats</b></summary>
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jesulonimii&count_private=true&show_icons=true&include_all_commits=true" alt="Jesulonimii | Stats" />
-  <p align="center"> <img src="[github-langs-img]: https://cheesits456-readme-stats.vercel.app/api/top-langs?username=jesulonimii&layout=compact&hide=smarty" alt="Jesulonimii | Languages" />
+  <p align="center"> <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=jesulonimii&layout=compact&hide=smarty" alt="Jesulonimii | Languages" />
 </details>

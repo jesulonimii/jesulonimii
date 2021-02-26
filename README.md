@@ -21,7 +21,7 @@
    <b>📊 Github Stats</b></summary>
     </br> </br>
   <img src="https://github-readme-stats.vercel.app/api?username=jesulonimii&count_private=true&show_icons=true&include_all_commits=true" alt="Jesulonimii | Stats" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=jesulonimii&layout=compact&hide=smarty" alt="Jesulonimii | Languages" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jesulonimii&" alt="Jesulonimii | Streak" />
 </details>

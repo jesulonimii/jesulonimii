@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Currently building <a href="https://www.twitter.com/fliviApp">Flivi App</a> while learning!
 - ⚡ Fun fact: I ask too many questions..... just kiddin'
-- 🤔 I’m looking for help with learning flutter
+- 🤔 I’m looking for help with learning jetpack compose
 <!--- 💬 Ask me about ...-->
 
 ![Profile views](https://gpvc.arturio.dev/jesulonimii)  

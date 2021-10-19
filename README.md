@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on improving myself! 
 - ⚡ I’m currently learning native android development and flutter.
-- 🌱 My StartUp: <a href="https://www.github.com/erliteHq">@erliteHq</a> Twitter: <a href="https://www.twiiter.com/erliteHq">@erliteHq</a> 
+- 🌱 My StartUp: <a href="https://www.github.com/aprihive">@aprihive</a> Twitter: <a href="https://www.twiiter.com/aprihiveapp">Aprihive</a> 
 - 👯 I’m looking to collaborate on native android development
 - 📫 How to reach me: Twitter: <a href="https://www.twitter.com/jesulonimii">@jesulonimii</a>
 - 😄 Pronouns: He/Him

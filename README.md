@@ -1,13 +1,14 @@
 ## <div align="center">Hi there 👋, William here, a 19 year young aspiring developer!<div>
 
 - 🔭 I’m currently working on improving myself! 
-- ⚡ I’m currently learning native android development and flutter.
-- 🌱 My StartUp: <a href="https://www.github.com/aprihive">@aprihive</a> Twitter: <a href="https://www.twiiter.com/aprihiveapp">Aprihive</a> 
-- 👯 I’m looking to collaborate on native android development
+- 😉 I’m an Android developer, web developer and motion graphics designer! 
+- ⚡ I’m currently learning backend development with NodeJs.
+- 🌱 The next big thing: <a href="https://www.github.com/aprihive">@aprihive</a> Twitter: <a href="https://www.twiiter.com/aprihiveapp">Aprihive</a> 
+- 👯 I’m looking to collaborate on native android development projects! 
 - 📫 How to reach me: Twitter: <a href="https://www.twitter.com/jesulonimii">@jesulonimii</a>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I ask too many questions..... just kiddin'
-- 🤔 I’m looking for help with learning jetpack compose
+- ⚡ Fun fact: I ask too many questions..... just kiddin'😅.... psst.. not kidding 🌚
+- 🤔 I’m looking for help with learning flutter
 <!--- 💬 Ask me about ...--> 
 
 

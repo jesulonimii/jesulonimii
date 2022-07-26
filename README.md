@@ -1,4 +1,4 @@
-## <div align="center">Hi there 👋, William here, a 19 year young aspiring developer!<div>
+## <div align="center">Hi there 👋, William here, an aspiring developer!<div>
 
 - 🔭 I’m currently working on improving myself! 
 - 😉 I’m an Android developer, web developer and motion graphics designer! 

@@ -22,9 +22,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue-41b883?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ### Currently learning
-![Vue.js](https://img.shields.io/badge/Vue-41b883?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%231572B6?style=for-the-badge&logo=flutter&logoColor=white)
 
 

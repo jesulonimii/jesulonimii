@@ -3,7 +3,7 @@
 
 
 - 😉 I’m an Android developer, web developer and motion graphics designer!
-- ⚡ I’m currently learning backend development with NodeJs.
+- ⚡ I’m currently improvong my backend development skills.
 - 🌱 The next big thing: <a href="https://www.github.com/aprihive">@aprihive</a> Twitter: <a href="https://www.twiiter.com/aprihiveapp">Aprihive</a>
 - 👯 I’m looking to collaborate on development projects!
 - 😄 Pronouns: He/Him

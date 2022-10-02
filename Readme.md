@@ -2,7 +2,7 @@
 #### <div align="center">Solving problems since 2020...<div>
 
 
-- 😉 I’m an Android developer, web developer and motion graphics designer!
+- 😉 I’m an Android developer, Full stack web developer and motion graphics designer!
 - ⚡ I’m currently improving my backend development skills.
 - 🌱 The next big thing: <a href="https://www.github.com/aprihive">@aprihive</a> Twitter: <a href="https://www.twiiter.com/aprihiveapp">Aprihive</a>
 - 👯 I’m looking to collaborate on development projects!

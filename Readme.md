@@ -7,8 +7,8 @@
 - 🌱 The next big thing: <a href="https://www.github.com/aprihive">@aprihive</a> Twitter: <a href="https://www.twiiter.com/aprihiveapp">Aprihive</a>
 - 👯 I’m looking to collaborate on development projects!
 - 😄 Pronouns: He/Him
-- 🤔 I’m looking to collaborate on projects
-<!--- 💬 Ask me about ...--> 
+<!---- 🤔 I’m looking to collaborate on projects
+ 💬 Ask me about ...--> 
 
 
 ## ⚒ My Tech Stack

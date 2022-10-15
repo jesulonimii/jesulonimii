@@ -50,7 +50,7 @@
 </details>
 
 ## ⚡ Fun Facts
-####  + things I think you should know...
+####  + Things I think you should know...
 - I tend to ask too many questions. 🌚
 - Feels like my music taste changes every six months 😄
 - My website is somehow still on the internet <a href="http://willcode.xtgem.com">here.</a>

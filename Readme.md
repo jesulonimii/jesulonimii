@@ -1,8 +1,8 @@
-## <div align="center">Hi there 👋, William here, an aspiring developer!<div>
+## <div align="center">Hi there 👋, William here, a goal-oriented developer!<div>
 #### <div align="center">Solving problems since 2020...<div>
 
 
-- 😉 I’m an Android developer, Full stack web developer and motion graphics designer!
+- 😉 I’m an Full stack web developer and motion graphics designer!
 - ⚡ I’m currently improving my backend development skills.
 - 🌱 The next big thing: <a href="https://www.github.com/aprihive">@aprihive</a> Twitter: <a href="https://www.twiiter.com/aprihiveapp">Aprihive</a>
 - 👯 I’m looking to collaborate on development projects!
@@ -53,4 +53,4 @@
 ####  + Things I think you should know...
 - I tend to ask too many questions. 🌚
 - Feels like my music taste changes every six months 😄
-- My website is somehow still on the internet <a href="http://willcode.xtgem.com">here.</a>
+- My first ever website is somehow still on the internet <a href="http://willcode.xtgem.com">here.</a>

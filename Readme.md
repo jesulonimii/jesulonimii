@@ -23,9 +23,11 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue-41b883?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=white)
+ 
 
-### Currently learning
-![Flutter](https://img.shields.io/badge/Flutter-%231572B6?style=for-the-badge&logo=flutter&logoColor=white)
+<!--### Currently learning
+![Flutter](https://img.shields.io/badge/Flutter-%231572B6?style=for-the-badge&logo=flutter&logoColor=white)-->
 
 
 <!--![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)-->

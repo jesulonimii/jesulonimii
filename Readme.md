@@ -43,7 +43,7 @@
 
 | | |
 | --- | --- |
-| ![alt-stats](https://github-readme-stats.vercel.app/api?username=jesulonimii&count_private=true&show_icons=true&include_all_commits=true) | ![languages](https://cheesits456-readme-stats.vercel.app/api/top-langs?username=jesulonimii&layout=compact&hide=smarty) |
+| ![alt-stats](https://github-readme-stats.vercel.app/api?username=jesulonimii&count_private=true&show_icons=true&include_all_commits=true) | ![languages](https://cheesits456-readme-stats.vercel.app/api/top-langs?username=jesulonimii&layout=compact&hide=smarty&refresh=1) |
 | ![streak](https://github-readme-streak-stats.herokuapp.com/?user=jesulonimii&) | ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31t7xodc6cyonwuak54jckwbfxsy) |
 
 

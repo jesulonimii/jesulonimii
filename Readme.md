@@ -3,7 +3,7 @@
 
 
 - 😉 I’m a Full stack web developer and motion graphics designer!
-- ⚡ I’m currently improving my backend development skills.
+<!--- - ⚡ I’m currently improving my backend development skills. --->
 - 🌱 The next big thing: ...
 - 👯 I’m looking to collaborate on development projects!
 - 😄 Pronouns: He/Him

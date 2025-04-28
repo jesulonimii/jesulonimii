@@ -2,7 +2,7 @@
 #### <div align="center">Solving problems since 2020...<div>
 
 
-- 😉 I’m a Full stack web developer and motion graphics designer!
+- 😉 I’m a Full stack software engineer (web,mobile,backend infrastructures included) and motion graphics designer!
 <!--- - ⚡ I’m currently improving my backend development skills. --->
 - 🌱 The next big thing: ...
 - 👯 I’m looking to collaborate on development projects!
